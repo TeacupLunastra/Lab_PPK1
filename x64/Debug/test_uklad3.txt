@@ -1,0 +1,4 @@
+IN: 1 2
+OUT 4
+NAND 1 2 3
+NOT 3 4

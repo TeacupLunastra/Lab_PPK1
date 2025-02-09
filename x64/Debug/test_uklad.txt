@@ -1,0 +1,7 @@
+IN: 1 2
+OUT: 4
+NAND 1 6 5
+OR  1 5 2
+AND 5 6 4
+XOR 2 4 3
+NOT 3 4
